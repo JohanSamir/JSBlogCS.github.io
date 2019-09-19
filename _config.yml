@@ -15,16 +15,16 @@ sass:
 remote_theme: thelehhman/plainwhite-jekyll
 theme: plainwhite
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: Johan S. Obando-Ceron
+  tagline: Developer. Researcher
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    twitter: https://twitter.com/JS_Obando
+    github:  https://github.com/JohanSamir
+    linkedIn: https://www.linkedin.com/notifications/
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll

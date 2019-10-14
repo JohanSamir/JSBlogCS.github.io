@@ -22,10 +22,10 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: https://twitter.com/JS_Obando
-    github:  https://github.com/JohanSamir
-    linkedIn: https://www.linkedin.com/notifications/
-    rss: rss
+    twitter: JS_Obando
+    github:  JohanSamir
+    linkedIn: johan-obandO
+    #rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll

@@ -71,3 +71,8 @@ The basic idea behind many reinforcement learning algorithms is to estimate the 
 <p align="center">
 <img src="/JSBlogCS.github.io/assets/Images/Humancontrol/8.png" alt="B"  width="370" >
 </p>
+
+
+### References
+
+1. http://karpathy.github.io/2016/05/31/rl/

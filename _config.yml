@@ -11,20 +11,17 @@ show_excerpts: true # set to true to show excerpts on the homepage
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
   sass_dir: _sass
-
-remote_theme: thelehhman/plainwhite-jekyll
-theme: plainwhite
 plainwhite:
-  name: Johan S. Obando-Ceron
-  tagline: AI Researcher
+  name: Adam Denisov
+  tagline: Developer. Designer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    twitter: JS_Obando
-    github:  JohanSamir
-    linkedIn: in/johan-obando
+    twitter: thelehhman
+    github:  thelehhman
+    linkedIn: in/thelehhman
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
@@ -52,7 +49,8 @@ plainwhite:
 # - about.md
 
 # Build settings
-#theme: plainwhite
+remote_theme: thelehhman/plainwhite-jekyll
+theme: plainwhite
 
 plugins:
   - jekyll-seo-tag
